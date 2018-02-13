@@ -1,0 +1,4 @@
+pyfiglet==0.7.5
+python-Wappalyzer==0.2.2
+reverse-engineer==1.1
+termcolor==1.1.0
